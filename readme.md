@@ -11,7 +11,7 @@ Este projeto é uma API para um jogo de Sudoku, permitindo a criação de usuár
 
 1. Clone o repositório para o seu ambiente local:
     ```bash
-    git clone <URL do repositório>
+    git clone https://github.com/antonioacampos/sudoku
     ```
 2. Navegue até o diretório do projeto:
     ```bash
