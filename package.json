@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "dev": "concurrently \"npm run dev:client\" \"npm run dev:server\"",
+        "dev:client": "cd sudoku && npm run dev",
+        "dev:server": "cd server && node node",
+        "build": "cd sudoku && vite build",
+        "lint": "cd sudoku && eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+        "preview": "cd sudoku && vite preview"
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    }
+}
