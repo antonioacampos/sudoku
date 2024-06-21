@@ -156,5 +156,3 @@ Se você deseja contribuir com este projeto, por favor, siga os passos abaixo:
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
-
-Salve este conteúdo em um arquivo chamado `README.md` no diretório raiz do seu projeto.
